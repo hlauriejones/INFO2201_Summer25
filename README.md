@@ -1,4 +1,4 @@
-# INFO2201_Summer25_version Lauriex2 new branch edition
+ INFO2201_Summer25_version Lauriex2 new branch edition
 ### This is for everyone to get familiar with this system and for us to hae one to break and have fun with
 
 GitHub is an online platform primarily used for storing, managing, and sharing code, and facilitating collaboration on software development projects. It works by using Git, a distributed version control system, which allows developers to track changes to their code, revert to previous versions, and work on different versions of a project simultaneously. 
@@ -16,5 +16,4 @@ GitHub facilitates collaboration by allowing multiple developers to work on the 
 
 ### Issue Tracking:
 GitHub provides a system for developers to track bugs, feature requests, and other tasks related to a project. 
-
 
